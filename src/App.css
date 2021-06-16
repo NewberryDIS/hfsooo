@@ -1,0 +1,15 @@
+
+html, body {
+  font-family: 'Signifier', sans-serif;
+  position: relative;
+  color: #c8b8cf; 
+  /* background-color: #344f40; */
+  padding: 0;
+  border: 0;
+  margin: 0;
+
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Fletch', serif;
+
+}
