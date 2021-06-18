@@ -55,7 +55,12 @@ function App() {
               Welcome to Humanism For Sale, which concerns the ways books were written, designed, printed, and marketed for schools in Renaissance Italy. Originally (in 2008) an interactive scholarly “book,” it has since 2018 become an artifact of online publication in the first decade of the millennium, as well as a repository for the research of its author and the many comments the book received over the space of a decade.
             </p>
             <p>
-              Humanism For Sale was an experiment. It used the Word Press blog platform and the Comment Press theme to create a dialog based on a scholarly monograph about the creation and sale of school books in Europe between 1450 and 1650. It was intended to be useful to many folks: Scholarly specialists in printing history and history of education.  Generalist readers and scholars in other fields who want to know more about the Renaissance and the way people were educated then. Designers, marketing professionals, educators and others interested in the history of visual communication
+              Humanism For Sale was an experiment. It used the Word Press blog platform and the Comment Press theme to create a dialog based on a scholarly monograph about the creation and sale of school books in Europe between 1450 and 1650. It was intended to be useful to many folks: 
+              <ul>
+                <li>Scholarly specialists in printing history and history of education</li>
+                <li>Generalist readers and scholars in other fields who want to know more about the Renaissance and the way people were educated then</li>
+                <li>Designers, marketing professionals, educators and others interested in the history of visual communication</li>
+              </ul>
             </p>
             <p>
               In fact, many people in all these groups eventually consulted and remarked the contents and you can find their comments in the fields that run parallel to the main text.
